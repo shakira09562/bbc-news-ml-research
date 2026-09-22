@@ -1,0 +1,14 @@
+DATASET BASIC VERIFICATION REPORT
+==================================================
+
+Created On: 2026-09-09 22:34:30.671690
+Dataset Path: D:\data\dataset.csv
+
+Number of Rows: 199706
+Number of Columns: 4
+
+Column Names:
+1. Headline
+2. Content
+3. News Categories
+4. Date

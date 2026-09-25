@@ -1,9 +1,0 @@
-assessment_area,score_out_of_100,level,reason,stage1_action
-Row strength,90,Strong,Large row count.,Good base for ML experiments.
-Feature width,60,Moderate,Some columns available.,Feature engineering may be needed.
-Missing values,90,Strong,Low missing percentage.,Proceed with normal review.
-Duplicate rows,55,Review,Duplicate rows detected.,Decide whether duplicates are valid.
-Numeric feature strength,25,Weak,No numeric columns found.,Focus on categorical/text analysis.
-Categorical feature strength,80,Good,Multiple categorical columns exist.,Classification or segmentation may be possible.
-Target clarity,35,Unclear,No strong target detected.,Ask user to confirm goal or use unsupervised/EDA.
-Risk column status,80,Low automatic risk,No risk columns detected automatically.,Manual review still required.

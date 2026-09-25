@@ -1,9 +1,0 @@
-STAGE 1 MODULE 2 COMPLETED
-Overall Score: 64.38
-Overall Level: Moderate Stage0 foundation
-Rows: 199706
-Columns: 4
-Missing %: 0.0
-Possible Targets: []
-Risk Columns Count: 0
-Next: Stage 1 Module 3 - ML Possibility Scorer

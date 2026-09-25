@@ -1,2 +1,0 @@
-stage,created_on,stage1_dataset,rows,columns,numeric_columns_count,categorical_columns_count,missing_percentage,duplicate_rows,risk_columns_count,risk_columns,file_check_csv,next_module
-Stage 1 - Module 1 Input Reader,2026-09-09 22:36:29.579102,D:\data\dataset_for_stage_1.csv,199706,4,0,4,0.0,35452,0,[],D:\data\stage1-dataset-intelligence\Stage1_Input_File_Check.csv,Stage 1 Module 2 - Stage0 Intelligence Interpreter
